@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0275-h-index-ii) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0275-h-index-ii) |
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
