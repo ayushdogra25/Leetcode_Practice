@@ -95,5 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
