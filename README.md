@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3637-trionic-array-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
