@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
 | [0526-beautiful-arrangement](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0526-beautiful-arrangement) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
