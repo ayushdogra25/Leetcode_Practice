@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
