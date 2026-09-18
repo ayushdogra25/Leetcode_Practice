@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0275-h-index-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0526-beautiful-arrangement) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Sorting
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
