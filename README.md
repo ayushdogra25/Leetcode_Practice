@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0275-h-index-ii) |
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
+| [0506-relative-ranks](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0506-relative-ranks) |
 | [0526-beautiful-arrangement](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0526-beautiful-arrangement) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0506-relative-ranks) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Graph Theory
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0506-relative-ranks) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
