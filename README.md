@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
 | [0506-relative-ranks](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0506-relative-ranks) |
 | [0526-beautiful-arrangement](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0526-beautiful-arrangement) |
+| [0905-sort-array-by-parity](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
+| [0905-sort-array-by-parity](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Dynamic Programming
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0506-relative-ranks) |
+| [0905-sort-array-by-parity](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Graph Theory
