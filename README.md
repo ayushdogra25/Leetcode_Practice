@@ -142,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
 |  |
