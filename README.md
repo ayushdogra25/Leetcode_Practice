@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
