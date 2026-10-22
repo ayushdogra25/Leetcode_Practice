@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3637-trionic-array-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
