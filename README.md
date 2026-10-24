@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
