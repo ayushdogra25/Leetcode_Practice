@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Graph Theory
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Monotonic Stack
 |  |
 | ------- |
