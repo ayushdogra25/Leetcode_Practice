@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0457-circular-array-loop](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0457-circular-array-loop) |
 | [0905-sort-array-by-parity](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Dynamic Programming
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Graph Theory
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushdogra25/https-github.com-ayushdogra25-Leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
 | ------- |
